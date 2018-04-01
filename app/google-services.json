@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345022532298",
+    "firebase_url": "https://khalisavirra-1202154312-modul6.firebaseio.com",
+    "project_id": "khalisavirra-1202154312-modul6",
+    "storage_bucket": "khalisavirra-1202154312-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345022532298:android:b0473a160b37d4e5",
+        "android_client_info": {
+          "package_name": "com.example.khalisavirra.khalisavirra_1202154312_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345022532298-lgbgc14v47amajug1caltst0j055iptk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khalisavirra.khalisavirra_1202154312_modul6",
+            "certificate_hash": "73f5d61eebc1825c76bd1f7efa807093f5e5ba2d"
+          }
+        },
+        {
+          "client_id": "345022532298-rb00te48dsh0g3ic1ql774o5rq8u1287.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQhNG_d44wNpDFAoBD6pybEBu69_QGdq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345022532298-rb00te48dsh0g3ic1ql774o5rq8u1287.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
